@@ -28,6 +28,7 @@ DOMAIN-KEYWORD,leigod
 DOMAIN,origin-a.akamaihd.net
 DOMAIN-SUFFIX,arae.cc
 DOMAIN-SUFFIX,poecdn.com
+DOMAIN-KEYWORD,ourplay
 
 IP-CIDR,23.192.47.234/32
 IP-CIDR,23.192.47.241/32
