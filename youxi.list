@@ -12,4 +12,6 @@
 #SRC-PORT,77777
 
 DOMAIN-SUFFIX,pathofexile.com
-#DOMAIN-KEYWORD,pathofexile
+DOMAIN-KEYWORD,pathofexile
+DOMAIN-KEYWORD,pathofexile2
+DOMAIN-KEYWORD,poecdn
