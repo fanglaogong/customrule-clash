@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,pathofexile.com
 DOMAIN-KEYWORD,pathofexile
 DOMAIN-KEYWORD,pathofexile2
 DOMAIN-KEYWORD,poecdn
+PROCESS-NAME,PathOfExile_x64Steam.exe
+PROCESS-NAME,PathOfExileSteam.exe
+PROCESS-NAME,PathOfExile_x64.exe
+PROCESS-NAME,PathOfExile.exe
