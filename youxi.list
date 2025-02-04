@@ -19,4 +19,4 @@ PROCESS-NAME,PathOfExile_x64Steam.exe
 PROCESS-NAME,PathOfExileSteam.exe
 PROCESS-NAME,PathOfExile_x64.exe
 PROCESS-NAME,PathOfExile.exe
-IP-CIDR,172.240.69.15/32
+IP-CIDR,172.240.69.0/24
