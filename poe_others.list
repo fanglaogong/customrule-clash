@@ -12,6 +12,7 @@ DOMAIN,ipmars.com
 #SRC-PORT,77777
 
 DOMAIN-SUFFIX,poedb.tw
+DOMAIN-SUFFIX,poe2db.tw
 DOMAIN-SUFFIX,craftofexile.com
 DOMAIN-SUFFIX,poe.re
 DOMAIN-SUFFIX,poeladder.com
