@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-KEYWORD,cloudflarestorage
 DOMAIN-KEYWORD,steamdb
 DOMAIN-KEYWORD,cursor
+DOMAIN-SUFFIX,on.aws
+DOMAIN-KEYWORD,lambda-url
