@@ -45,6 +45,7 @@ PROCESS-NAME,xianniu.exe
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-KEYWORD,fiat24
 DOMAIN-KEYWORD,isafepal
+DOMAIN-SUFFIX,fastly-edge.com
 
 
 IP-CIDR,23.192.47.234/32
